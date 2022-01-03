@@ -1,4 +1,4 @@
-### Hi guys, Eu sou a Giovanna Danelli! 
+### Hi guys, eu sou a Giovanna Danelli! 
 
 - 💻 Hoje trabalho com Front end
 - 📖  Estudando Swift
