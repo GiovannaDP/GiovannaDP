@@ -1,7 +1,7 @@
 ### Hi guys, eu sou a Giovanna Danelli! 
 
 - 💻 Hoje trabalho com Front end
-- 📖  Estudando Swift
+- 📖  Estudando Swift e Kotlin
 
 ##
 
